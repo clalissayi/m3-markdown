@@ -6,7 +6,7 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 > I solemnly swear I am up to no good. 
 
-http://harrypotter.wikia.com/wiki/Marauder's_Map
+Read more at [Harry Potter Wiki](http://harrypotter.wikia.com/wiki/Marauder's_Map).
 
 
 See `complete` branch for an example.
